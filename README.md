@@ -2,15 +2,15 @@
 AI-powered manga scanlation pipeline. Takes raw Japanese manga pages, detects text regions, extracts text with OCR, translates using DeepL, removes original text, and typesets English back into speech bubbles.
 
 Features:
-Japanese OCR using MangaOCR
-Translation via DeepL API
-Text region detection using YOLOv8
-Automatic text removal (inpainting)
-Basic typesetting inside detected regions
-Batch processing of entire chapters
+Japanese OCR using MangaOCR, 
+Translation via DeepL API, 
+Text region detection using YOLOv8, 
+Automatic text removal (inpainting), 
+Basic typesetting inside detected regions, 
+Batch processing of entire chapters 
 
 Prerequisites:
-Python 3.10 recommended
+Python 3.10 recommended, 
 DeepL API Key
 
 Required Python Packages (pip):
