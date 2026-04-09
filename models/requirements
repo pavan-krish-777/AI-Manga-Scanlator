@@ -1,0 +1,4 @@
+A bubble detection model is required.
+This one works: 
+
+https://huggingface.co/ogkalu/comic-speech-bubble-detector-yolov8m/blob/21d5af0a9c69bb522b9968d6cc915f898d71a264/comic-speech-bubble-detector.pt
