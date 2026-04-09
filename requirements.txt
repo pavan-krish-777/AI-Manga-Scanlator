@@ -1,0 +1,12 @@
+manga-ocr
+torch
+transformers
+fugashi
+unidic-lite
+pillow
+numpy
+opencv-python
+ultralytics
+deepl
+python-dotenv
+tqdm
