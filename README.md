@@ -26,14 +26,15 @@ ultralytics,
 deepl, 
 python-dotenv, 
 tqdm
+(Run "pip install -r requirements.txt" to install all required packages)
 
 Notes:
-This project does not translate sound effects (SFX)
-Typesetting is basic and can be improved
-Performance depends on hardware (GPU recommended for faster OCR)
+This project does not translate sound effects (SFX). 
+Typesetting is basic and can be improved. 
+Performance depends on hardware (GPU recommended for faster OCR). 
 
 Future Improvements:
-Better text detection (CRAFT / segmentation models)
-Improved inpainting (LaMa / diffusion models)
-Advanced typesetting (auto wrapping, fonts, alignment)
-GUI for easier usage
+Better text detection (CRAFT / segmentation models), 
+Improved inpainting (LaMa / diffusion models), 
+Advanced typesetting (auto wrapping, fonts, alignment), 
+GUI for easier usage. 
